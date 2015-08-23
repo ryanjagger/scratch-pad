@@ -1,5 +1,5 @@
 # scratch-pad
-A blank node app for learning JavaScript
+A blank node app for learning JavaScript!
 
 
 ## app.js
