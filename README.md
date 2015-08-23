@@ -26,7 +26,7 @@ You can duplicate this file and rename it to represent whatever other studies yo
     5. how many customer's names begin with some letter
     5. how many customer's friend's names begin with some letter
     6. how many customers are friends
-    7. how many customers are friends in common
+    7. how many customers have friends in common
     8. most common tags
 4. If you do not know how to create and load a local `node.js` module, Google it!
 5. If you do not know how to load a json file in node, Google it!
