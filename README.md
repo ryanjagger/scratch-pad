@@ -9,7 +9,7 @@ SSH clone this repository into a new Cloud9 workspace, **configured with a Node.
 
 The app.js file is an executable JavaScript file, a template for you to write and test JavaScript in the node.js environment.
 
-You can execute it in Cloud9 by opening it and clicking the green "Run" button - this will allow you to use breakpoints on the file and debug and step-thru your code, which is very handy for understanding complex algothrithms, especially higher order functions.
+You can execute it in Cloud9 by opening it and clicking the green "Run" button - this will allow you to use breakpoints on the file and debug and step-thru your code, which is very handy for understanding complex algorithms, especially higher order functions.
 
 You can also execute this file from the commandline: if you're in the same directory as the app.js file, simply run the command `./app.js`.
 
