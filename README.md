@@ -1,6 +1,9 @@
 # scratch-pad
 A blank node app for learning JavaScript!
 
+## Installation
+
+SSH clone this repository into a new Cloud9 workspace, **configured with a Node.js environment.**  You can fork it first if you want to push your changes back to GitHub, but it's not necessary - your Cloud9 workspace will keep save your work.
 
 ## app.js
 
